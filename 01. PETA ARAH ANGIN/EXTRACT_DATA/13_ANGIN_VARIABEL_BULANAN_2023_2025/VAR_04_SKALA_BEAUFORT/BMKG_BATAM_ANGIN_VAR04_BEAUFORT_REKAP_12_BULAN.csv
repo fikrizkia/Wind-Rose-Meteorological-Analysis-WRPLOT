@@ -1,0 +1,97 @@
+SKALA_BEAUFORT,BULAN,NAMA_BULAN,JUMLAH_OBSERVASI_JAM,FREKUENSI_PERSEN
+0 - Calm (Tenang),1,Januari,88,3.94
+1 - Light Air (Udara Tenang),1,Januari,253,11.34
+2 - Light Breeze (Angin Sepoi Ringan),1,Januari,696,31.18
+3 - Gentle Breeze (Angin Sepoi Lembut),1,Januari,747,33.47
+4 - Moderate Breeze (Angin Sedang),1,Januari,410,18.37
+5 - Fresh Breeze (Angin Segar),1,Januari,38,1.7
+6 - Strong Breeze (Angin Kuat),1,Januari,0,0.0
+7 - Near Gale (Angin Kencang),1,Januari,0,0.0
+0 - Calm (Tenang),2,Februari,46,2.2
+1 - Light Air (Udara Tenang),2,Februari,146,6.99
+2 - Light Breeze (Angin Sepoi Ringan),2,Februari,668,31.99
+3 - Gentle Breeze (Angin Sepoi Lembut),2,Februari,691,33.09
+4 - Moderate Breeze (Angin Sedang),2,Februari,483,23.13
+5 - Fresh Breeze (Angin Segar),2,Februari,54,2.59
+6 - Strong Breeze (Angin Kuat),2,Februari,0,0.0
+7 - Near Gale (Angin Kencang),2,Februari,0,0.0
+0 - Calm (Tenang),3,Maret,112,5.02
+1 - Light Air (Udara Tenang),3,Maret,205,9.18
+2 - Light Breeze (Angin Sepoi Ringan),3,Maret,613,27.46
+3 - Gentle Breeze (Angin Sepoi Lembut),3,Maret,705,31.59
+4 - Moderate Breeze (Angin Sedang),3,Maret,547,24.51
+5 - Fresh Breeze (Angin Segar),3,Maret,50,2.24
+6 - Strong Breeze (Angin Kuat),3,Maret,0,0.0
+7 - Near Gale (Angin Kencang),3,Maret,0,0.0
+0 - Calm (Tenang),4,April,387,17.92
+1 - Light Air (Udara Tenang),4,April,579,26.81
+2 - Light Breeze (Angin Sepoi Ringan),4,April,700,32.41
+3 - Gentle Breeze (Angin Sepoi Lembut),4,April,406,18.8
+4 - Moderate Breeze (Angin Sedang),4,April,85,3.94
+5 - Fresh Breeze (Angin Segar),4,April,3,0.14
+6 - Strong Breeze (Angin Kuat),4,April,0,0.0
+7 - Near Gale (Angin Kencang),4,April,0,0.0
+0 - Calm (Tenang),5,Mei,283,12.68
+1 - Light Air (Udara Tenang),5,Mei,455,20.39
+2 - Light Breeze (Angin Sepoi Ringan),5,Mei,755,33.83
+3 - Gentle Breeze (Angin Sepoi Lembut),5,Mei,528,23.66
+4 - Moderate Breeze (Angin Sedang),5,Mei,195,8.74
+5 - Fresh Breeze (Angin Segar),5,Mei,16,0.72
+6 - Strong Breeze (Angin Kuat),5,Mei,0,0.0
+7 - Near Gale (Angin Kencang),5,Mei,0,0.0
+0 - Calm (Tenang),6,Juni,184,8.52
+1 - Light Air (Udara Tenang),6,Juni,474,21.94
+2 - Light Breeze (Angin Sepoi Ringan),6,Juni,737,34.12
+3 - Gentle Breeze (Angin Sepoi Lembut),6,Juni,539,24.95
+4 - Moderate Breeze (Angin Sedang),6,Juni,211,9.77
+5 - Fresh Breeze (Angin Segar),6,Juni,15,0.69
+6 - Strong Breeze (Angin Kuat),6,Juni,0,0.0
+7 - Near Gale (Angin Kencang),6,Juni,0,0.0
+0 - Calm (Tenang),7,Juli,122,5.47
+1 - Light Air (Udara Tenang),7,Juli,411,18.41
+2 - Light Breeze (Angin Sepoi Ringan),7,Juli,837,37.5
+3 - Gentle Breeze (Angin Sepoi Lembut),7,Juli,622,27.87
+4 - Moderate Breeze (Angin Sedang),7,Juli,225,10.08
+5 - Fresh Breeze (Angin Segar),7,Juli,15,0.67
+6 - Strong Breeze (Angin Kuat),7,Juli,0,0.0
+7 - Near Gale (Angin Kencang),7,Juli,0,0.0
+0 - Calm (Tenang),8,Agustus,175,7.84
+1 - Light Air (Udara Tenang),8,Agustus,464,20.79
+2 - Light Breeze (Angin Sepoi Ringan),8,Agustus,796,35.66
+3 - Gentle Breeze (Angin Sepoi Lembut),8,Agustus,581,26.03
+4 - Moderate Breeze (Angin Sedang),8,Agustus,200,8.96
+5 - Fresh Breeze (Angin Segar),8,Agustus,16,0.72
+6 - Strong Breeze (Angin Kuat),8,Agustus,0,0.0
+7 - Near Gale (Angin Kencang),8,Agustus,0,0.0
+0 - Calm (Tenang),9,September,243,11.25
+1 - Light Air (Udara Tenang),9,September,443,20.51
+2 - Light Breeze (Angin Sepoi Ringan),9,September,747,34.58
+3 - Gentle Breeze (Angin Sepoi Lembut),9,September,515,23.84
+4 - Moderate Breeze (Angin Sedang),9,September,197,9.12
+5 - Fresh Breeze (Angin Segar),9,September,15,0.69
+6 - Strong Breeze (Angin Kuat),9,September,0,0.0
+7 - Near Gale (Angin Kencang),9,September,0,0.0
+0 - Calm (Tenang),10,Oktober,234,10.48
+1 - Light Air (Udara Tenang),10,Oktober,435,19.49
+2 - Light Breeze (Angin Sepoi Ringan),10,Oktober,791,35.44
+3 - Gentle Breeze (Angin Sepoi Lembut),10,Oktober,558,25.0
+4 - Moderate Breeze (Angin Sedang),10,Oktober,199,8.92
+5 - Fresh Breeze (Angin Segar),10,Oktober,15,0.67
+6 - Strong Breeze (Angin Kuat),10,Oktober,0,0.0
+7 - Near Gale (Angin Kencang),10,Oktober,0,0.0
+0 - Calm (Tenang),11,November,230,10.65
+1 - Light Air (Udara Tenang),11,November,466,21.57
+2 - Light Breeze (Angin Sepoi Ringan),11,November,753,34.86
+3 - Gentle Breeze (Angin Sepoi Lembut),11,November,512,23.7
+4 - Moderate Breeze (Angin Sedang),11,November,184,8.52
+5 - Fresh Breeze (Angin Segar),11,November,15,0.69
+6 - Strong Breeze (Angin Kuat),11,November,0,0.0
+7 - Near Gale (Angin Kencang),11,November,0,0.0
+0 - Calm (Tenang),12,Desember,131,5.87
+1 - Light Air (Udara Tenang),12,Desember,401,17.97
+2 - Light Breeze (Angin Sepoi Ringan),12,Desember,833,37.32
+3 - Gentle Breeze (Angin Sepoi Lembut),12,Desember,597,26.75
+4 - Moderate Breeze (Angin Sedang),12,Desember,253,11.34
+5 - Fresh Breeze (Angin Segar),12,Desember,17,0.76
+6 - Strong Breeze (Angin Kuat),12,Desember,0,0.0
+7 - Near Gale (Angin Kencang),12,Desember,0,0.0

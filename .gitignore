@@ -1,0 +1,4 @@
+# Temporary & large files
+*.sam
+*.tmp
+~$*.xlsx
